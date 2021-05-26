@@ -1,0 +1,13 @@
+[ignore]
+
+[include]
+
+[libs]
+
+[lints]
+signature-verification-failure=warn
+
+[options]
+types_first=true
+
+[strict]
